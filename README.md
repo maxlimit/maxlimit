@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maxlimit
+- 👀 I’m interested in coding for blockchain tech
+- 🌱 I’m currently learning scalablity in blockchain
+- 💞️ I’m looking to collaborate on blockchain
+- 📫 DM me if you like blockchain coding 
